@@ -1,0 +1,11 @@
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\bin\Debug\netcoreapp2.2\CombineFiles.deps.json
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\bin\Debug\netcoreapp2.2\CombineFiles.runtimeconfig.json
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\bin\Debug\netcoreapp2.2\CombineFiles.runtimeconfig.dev.json
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\bin\Debug\netcoreapp2.2\CombineFiles.dll
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\bin\Debug\netcoreapp2.2\CombineFiles.pdb
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\obj\Debug\netcoreapp2.2\CombineFiles.csprojAssemblyReference.cache
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\obj\Debug\netcoreapp2.2\CombineFiles.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\obj\Debug\netcoreapp2.2\CombineFiles.AssemblyInfoInputs.cache
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\obj\Debug\netcoreapp2.2\CombineFiles.AssemblyInfo.cs
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\obj\Debug\netcoreapp2.2\CombineFiles.dll
+C:\Users\ivan\source\repos\CombineFiles\CombineFiles\obj\Debug\netcoreapp2.2\CombineFiles.pdb
